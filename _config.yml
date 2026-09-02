@@ -2,7 +2,7 @@ title: WOMAN LOVE NATURE
 description: ...
 theme: jekyll-theme-cayman
 
-baseurl: "/"
+baseurl:
 
 # Navigace v horní liště (Cayman téma toto přímo nepoužívá,
 # ale hodí se to mít připravené pro budoucí rozšíření)
