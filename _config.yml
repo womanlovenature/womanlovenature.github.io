@@ -1,0 +1,23 @@
+title: WOMAN LOVE NATURE
+description:
+theme: jekyll-theme-cayman
+
+baseurl: "/web2"
+
+# Navigace v horní liště (Cayman téma toto přímo nepoužívá,
+# ale hodí se to mít připravené pro budoucí rozšíření)
+navigation:
+  - title: Domů
+    url: /
+  - title: O mně
+    url: /o-mne.html
+  - title: Kontakt
+    url: /kontakt.html
+show_downloads: false
+
+# Nastavení pro GitHub Pages
+markdown: kramdown
+
+# Vyhledávání podstránek
+plugins:
+  - jekyll-sitemap

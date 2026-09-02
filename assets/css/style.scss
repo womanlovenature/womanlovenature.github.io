@@ -1,0 +1,174 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Hlavička webu
+.page-header {
+  background-image: url("/assets/images/pozadi.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+// Schování github tlačítek
+
+.page-header .btn {
+  display: none;
+}
+
+.site-footer {
+  display: none;
+}
+
+// Barva textu v hlaviččce
+.page-header h1.project-name,
+.page-header h2.project-tagline {
+  color: black !important;
+}
+
+// Tlačítko menu nahoře
+.nav-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 4px;
+  background-color: #A9DB1A;
+  background-image: linear-gradient(120deg, #84AD0E, #A9DB1A);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.nav-btn:hover {
+  opacity: 0.85;
+}
+
+// Rozbalovací tlačítko
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.dropdown-content.show {
+  display: block;
+}
+
+.dropdown-content a {
+  color: #A9DB1A !important;
+  padding: 10px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f0f0f0;
+}
+
+// ZALAMOVAČ TLAČÍTEK K SOBĚ
+.nav-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0;
+}
+
+// Kontejner, který drží ikonu i side menu pohromadě (kvůli hoveru)
+.side-menu-trigger {
+  position: fixed;
+  top: 20px;
+  right: 0;
+  z-index: 100;
+}
+
+// Samotná hamburger ikona
+.hamburger-icon {
+  background-color: #a8c686;
+  color: white;
+  font-size: 1.5em;
+  padding: 10px 16px;
+  cursor: pointer;
+  border-radius: 4px 0 0 4px;
+}
+
+// Skryté postranní menu - vysunuté mimo obrazovku
+.side-menu {
+  position: fixed;
+  top: 0;
+  right: -220px;         // schované mimo obrazovku
+  width: 220px;
+  height: 100vh;
+  background-color: #a8c686;
+  padding-top: 70px;
+  display: flex;
+  flex-direction: column;
+  transition: right 0.3s ease;
+  box-shadow: -4px 0 10px rgba(0,0,0,0.2);
+  overflow-y: auto;
+}
+
+.side-menu a {
+  color: white !important;
+  text-decoration: none;
+  padding: 14px 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.side-menu a:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+
+// Vysune se buď při kliknutí (mobil i desktop) NEBO při najetí myší (jen desktop)
+.side-menu.open {
+  right: 0;
+}
+
+@media (hover: hover) {
+  .side-menu-trigger:hover .side-menu {
+    right: 0;
+  }
+}
+
+// Obrazkovy box
+
+.image-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+.image-row img {
+  max-width: 48%;
+  height: auto;
+}
+
+// Text a obrazek
+
+.text-image-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.text-image-row > div {
+  flex: 1;
+  min-width: 250px;
+}
+.text-image-row img {
+  width: 100%;
+  height: auto;
+}
