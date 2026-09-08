@@ -11,7 +11,7 @@ description: INSPIRATION cz(LPN) (page at work) en(WLN)
   <img src="{{ site.baseurl }}/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
-37th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ Slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Chocolate day ✔ Positive thinking day ✔ Summer time ✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔ LOVE (💖) Pascal Letoublon - Friendships
+37th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ Slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Chocolate day ✔ Positive thinking day ✔ Autumn time ✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔ Hygge ✔ LOVE (💖) Pascal Letoublon - Friendships
 
 
 
@@ -68,7 +68,7 @@ FAMILY DAYs - Sol lucet omnibus
 we all are famlove - everyday :o)
 
 W O M A N-LOVE-N A T U R E 
-ŽENSKOST - SÍLA DUCHA, LÁSKY a VÍRY / TOGETHER FOREVER  SUPPORT FOR EVERYONE IS HERE FOR YOU  WELCOME JUNE ❤ - WELCOME THE SUMMER MONTH -  WELCOME PEACE & CALM now and here :o))  DISCIPLINE YOURSELF WITH LOVE & CONFIDENCE  PROGRAM POSITIVE STRONG ENERGY MINDSET  REPETITION IS THE MOTHER OF LEARNING  PEACE, HEALTH, QUIET TIMES & LOVE IN 2025  LOVE and more LIGHT TO THESE DAYS,  HYGGE style ❤
+ŽENSKOST - SÍLA DUCHA, LÁSKY a VÍRY / TOGETHER FOREVER  SUPPORT FOR EVERYONE IS HERE FOR YOU  WELCOME SEPTEMBER ❤ - WELCOME THE AUTUMN MONTH -  WELCOME PEACE & CALM now and here :o))  DISCIPLINE YOURSELF WITH LOVE & CONFIDENCE  PROGRAM POSITIVE STRONG ENERGY MINDSET  REPETITION IS THE MOTHER OF LEARNING  PEACE, HEALTH, QUIET TIMES & LOVE IN 2026  LOVE and more LIGHT TO THESE DAYS,  HYGGE style ❤
 
 
 
@@ -78,7 +78,9 @@ W O M A N-LOVE-N A T U R E
   <img src="{{ site.baseurl }}/assets/images/vrasky.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
-Dear FRIENDS,  Welcome on sites of LOVE, HARMONY and NATURE.  Now and Here.  Sense IT❤. Let´s be an INSPIRATION for ours lives.  Let´s be LOVE.  The EARTH, our Home is pure NATURE we take CARE of.  Let´s HELP TOGETHER discover HOW TO BE THE BEST in taking CARE of OURSELVES.  We than understand the EARTH. It needs this CARE, it is our HOME.  wolpnat@gmail.com
+Dear FRIENDS,  Welcome on sites of LOVE, HARMONY and NATURE.  Now and Here.  Sense IT❤. Let´s be an INSPIRATION for ours lives.  Let´s be LOVE.  The EARTH, our Home is pure NATURE we take CARE of.  Let´s HELP TOGETHER discover HOW TO BE THE BEST in taking CARE of OURSELVES.  We than understand the EARTH. It needs this CARE, it is our HOME.  
+
+wolpnat@gmail.com
 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/mother-earth-day.jpg" style="max-width: 100%; width: 500px;">
