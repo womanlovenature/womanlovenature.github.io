@@ -33,14 +33,14 @@ Děkuji Vám za objednávky a pozitivní "mails-feedbacks". I really appreciate 
 
 YOU ARE THE BEST.
 
-Protože Vám přeji prožití klidného nejen dnešního dne. Protože to děláte velmi správně. Protože jste upřímné. Protože věrně sledujete mé i své životní zkušenosti i "zdejší intuitivnosti🙃" a držíte/me spolu, víme, nasloucháme si a něco pro sebe děláme. Protože jsme vychované láskyplné ženy, máme mnohé vepsané v našich tvářích a jsme si inspirací i oporou jedna v druhé, v sobě. Protože poděkujme našim mužům, že jsou a že se starají a podporují nás v našem jednání, v tom co my si přejeme a jak si přejeme, protože jedině tak je vidět, že o nás pečují v souladu a přesně podle toho a tak abychom všichni byli pokud možno v co největším klidu a harmonii ❤. Jsme součástí příběhu tady a teď, hlavně se z toho....😎tak vnímejme</p>
+Protože Vám přeji prožití klidného nejen dnešního dne. Protože to děláte velmi správně. Protože jste upřímné. Protože věrně sledujete mé i své životní zkušenosti i "zdejší intuitivnosti🙃" a držíte/me spolu, víme, nasloucháme si a něco pro sebe děláme. Protože jsme vychované láskyplné ženy, máme mnohé vepsané v našich tvářích a jsme si inspirací i oporou jedna v druhé, v sobě. Protože poděkujme našim mužům, že jsou a že se starají a podporují nás v našem jednání, v tom co my si přejeme a jak si přejeme, protože jedině tak je vidět, že o nás pečují v souladu a přesně podle toho a tak abychom všichni byli pokud možno v co největším klidu a harmonii ❤. Jsme součástí příběhu tady a teď, hlavně se z toho....😎tak vnímejme...</p>
   </div>
   <div>
     <img src="{{ site.baseurl }}/assets/images/kytky.jpg">
   </div>
 </div>
 
-37. týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
+třicátýsedmý týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
 AHOJ HYGGE style  Dokážeme-li si takto vzájemně pomáhat, je tu čím dál lépe a veseleji a to všude.
 
 The more you know, the more respectfull and carefull you are in any ways. It is strength, not weakness. Please be kind to anyone, who was hurt. Let´s be polite. 
@@ -66,10 +66,7 @@ we all are famlove - everyday :o)
 W O M A N-LOVE-N A T U R E 
 ŽENSKOST - SÍLA DUCHA, LÁSKY a VÍRY / TOGETHER FOREVER  SUPPORT FOR EVERYONE IS HERE FOR YOU  WELCOME JUNE ❤ - WELCOME THE SUMMER MONTH -  WELCOME PEACE & CALM now and here :o))  DISCIPLINE YOURSELF WITH LOVE & CONFIDENCE  PROGRAM POSITIVE STRONG ENERGY MINDSET  REPETITION IS THE MOTHER OF LEARNING  PEACE, HEALTH, QUIET TIMES & LOVE IN 2025  LOVE and more LIGHT TO THESE DAYS,  HYGGE style ❤
 
-obr, obr EKO BIOTOP SYSTEM for several years maintenance-free aqua under needed professional supervision
 
-
-obr
 
 ...mature woman´s beauty ....
 
