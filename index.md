@@ -11,7 +11,7 @@ description: INSPIRATION cz(LPN) (page at work) en(WLN)
   <img src="{{ site.baseurl }}/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
-36th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Milk chocolate day ✔ Friendship day ✔ Summer time✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔LOVE (💖) Pascal Letoublon - Friendships
+37th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ Slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Chocolate day ✔ Positive thinking day ✔ Summer time ✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔ LOVE (💖) Pascal Letoublon - Friendships
 
 
 
@@ -40,7 +40,7 @@ Protože Vám přeji prožití klidného nejen dnešního dne. Protože to děl�
   </div>
 </div>
 
-26. týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
+37. týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
 AHOJ HYGGE style  Dokážeme-li si takto vzájemně pomáhat, je tu čím dál lépe a veseleji a to všude.
 
 The more you know, the more respectfull and carefull you are in any ways. It is strength, not weakness. Please be kind to anyone, who was hurt. Let´s be polite. 
@@ -68,25 +68,22 @@ W O M A N-LOVE-N A T U R E
 
 obr, obr EKO BIOTOP SYSTEM for several years maintenance-free aqua under needed professional supervision
 
-obr
-Family days, Environmental day JEAN GIONO - HOMME QUI PLANTAIT DES ARBES (THE MAN WHO PLANTED TREES)
-
-obr
 
 obr
 
 ...mature woman´s beauty ....
 
-obr, txt
+obr
+
 Dear FRIENDS,  Welcome on sites of LOVE, HARMONY and NATURE.  Now and Here.  Sense IT❤. Let´s be an INSPIRATION for ours lives.  Let´s be LOVE.  The EARTH, our Home is pure NATURE we take CARE of.  Let´s HELP TOGETHER discover HOW TO BE THE BEST in taking CARE of OURSELVES.  We than understand the EARTH. It needs this CARE, it is our HOME.  wolpnat@gmail.com
 
-obr txt, obr
+obr 
+
+
 WRITE on...., I preffer personal letters, mails more than likes/dislikes,...tks for understanding............... I am an old school and also I know that we can make personal talk/call rather.
 
 LASKAVOST je i ONA
 ...... rodící a spoustu měsíců v sobě nosící poklady.  Ty zde v ČASOPROSTORU získávají apriori cenné ZKUŠENOSTI, a ZNALOSTI. Jsme to my.  Žijme v SOUL ADDu ..  OSLAVME V TENTO ČAS ODPOVĚDNOST, LÁSKU, PARTNERSTVÍ, SMYSLNOST A PLODNOST MOUDRÉ INSTINKTIVNÍ ŽENY, RODINU, HARMONII.  Let´s tune into our wise intuition through the care of surroundings from natural aromatherapy, herbal medicine, circadian, astrology to the psyche, inner side and spirit, inner child, cell phone free days, woman cycle to be the loving and caring understanding self confident good looking and relatively healthy projectors through the exercises, massages, relationships and nice thinking energy vibes, slow down and be generators for ourselves and support to our loved ones, be even more patient to our children and family, relatives and friends and acquaintances.  Feel free to contact me to tap on the topic. We are on our ways.  Spojme náš Prostor a společný Domov!!! v NÁDHERNÉ JEDNO ❤.Dejme mu MELODII a Rytmus = NÁLADU
-
-obr
 
 obr
 
