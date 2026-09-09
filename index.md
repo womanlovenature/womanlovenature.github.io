@@ -47,7 +47,7 @@ The more you know, the more respectfull and carefull you are in any ways. It is 
 
 NEJEN HUDBA a TANEC SPOJUJE, TVOŘME ❤  
 
-A kde není LÉPE, tak bude... IKIGAI.. koncept pro každého .....DRŽME SE.
+
 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/pocitac.jpg" style="max-width: 100%; width: 500px;">
@@ -87,7 +87,7 @@ wolpnat@gmail.com
 </div> 
 
 
-WRITE on...., I preffer personal letters, mails more than likes/dislikes,...tks for understanding............... I am an old school and also I know that we can make personal talk/call rather.
+WRITE on...., I preffer meetings, personal letters, mails more than likes/dislikes,...tks for understanding............... I am an old school and also I know that we can make personal talk/call rather to sense human vibes.
 
 
 <div style="text-align: center;">
