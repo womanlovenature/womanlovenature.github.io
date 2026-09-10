@@ -20,6 +20,8 @@ layout: default
   <img src="{{ site.baseurl }}/assets/images/baking.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
+
+
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/dort.jpg" style="max-width: 100%; width: 500px;">
 </div>
