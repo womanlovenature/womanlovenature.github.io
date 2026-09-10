@@ -27,6 +27,3 @@ layout: default
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/pastaspoon.jpg" style="max-width: 100%; width: 500px;">
 </div>
-
-
-
