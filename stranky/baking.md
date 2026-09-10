@@ -9,3 +9,13 @@ layout: default
 
 ... the best modern recipes such as wonderful chesecakes, amazing cupcakes, delicious honey cakes etc...
 
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/baking.jpg" style="max-width: 100%; width: 500px;">
+</div>
+
+
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/cooking.jpg" style="max-width: 100%; width: 500px;">
+</div>
