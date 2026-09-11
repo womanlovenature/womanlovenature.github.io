@@ -47,6 +47,6 @@ Honey, would you hang a picture for me, please?
 
 (LWN LPN)
 
-...we love only our loved ones from inside and out...
+...we love our loved ones from inside and out...
 
 ..we love you and can help if you wanna and tell, whenever and whatever.. Could you just assemble the cabinet for blocks and toys, please?
