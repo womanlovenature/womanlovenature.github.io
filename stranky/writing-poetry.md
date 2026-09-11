@@ -54,7 +54,7 @@ Honey, would you hang a picture for me, please?
 ..we love you and can help if you wanna and tell, whenever and whatever.. Could you just assemble the cabinet for blocks and toys, please?</p>
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/images/treasure.jpg">
+    <img src="{{ site.baseurl }}/assets/images/stairs.jpg">
   </div>
 
 
