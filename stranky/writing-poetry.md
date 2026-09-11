@@ -10,7 +10,7 @@ layout: default
 <div class="text-image-row">
   <div>
     <p>
-    _Ne vše bylo řečeno...
+    Ne vše bylo řečeno...
 
 
 Kam máš namířeno?
@@ -64,7 +64,7 @@ Nehledejme na všem chyby
 a buďme šťastné, 
 
 
-mějme záliby._
+mějme záliby.
 
 
 
