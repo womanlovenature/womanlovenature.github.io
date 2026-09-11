@@ -5,7 +5,11 @@ layout: default
 {% include nav.html %}
 {% include sidemenu.html %}
 
-Ne vše bylo řečeno...
+
+
+<div class="text-image-row">
+  <div>
+    <p>Ne vše bylo řečeno...
 
 Kam máš namířeno?
 
@@ -45,8 +49,15 @@ mějme záliby.
 
 Honey, would you hang a picture for me, please?
 
-(LWN LPN)
-
 ...we love our loved ones from inside and out...
 
-..we love you and can help if you wanna and tell, whenever and whatever.. Could you just assemble the cabinet for blocks and toys, please?
+..we love you and can help if you wanna and tell, whenever and whatever.. Could you just assemble the cabinet for blocks and toys, please?</p>
+  </div>
+  <div>
+    <img src="{{ site.baseurl }}/assets/images/treasure.jpg">
+  </div>
+
+
+
+
+
