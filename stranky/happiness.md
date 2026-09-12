@@ -6,7 +6,7 @@ layout: default
 {% include sidemenu.html %}
 
 <div>
-    <img src="{{ site.baseurl }}/assets/images/happiness.jpg">
+    <img src="{{ site.baseurl }}/assets/images/happy.jpg">
   </div>
 
 ... the right rules during a day and satisfying eating with the regullar right exercises is needed to be happy with yourself consistently..
