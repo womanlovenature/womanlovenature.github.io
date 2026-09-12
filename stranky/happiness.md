@@ -5,6 +5,10 @@ layout: default
 {% include nav.html %}
 {% include sidemenu.html %}
 
+<div>
+    <img src="{{ site.baseurl }}/assets/images/happiness.jpg">
+  </div>
+
 ... the right rules during a day and satisfying eating with the regullar right exercises is needed to be happy with yourself consistently..
 
 ...some valuable experience are passed from generation to generation...
