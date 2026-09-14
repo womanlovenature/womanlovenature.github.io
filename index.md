@@ -11,7 +11,7 @@ description: INSPIRATION cz(LPN) (page at work) en(WLN)
   <img src="{{ site.baseurl }}/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
-37th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ Slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Chocolate day ✔ Positive thinking day ✔ Autumn time ✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔ Hygge ✔ LOVE (💖) Pascal Letoublon - Friendships
+38th week - LOVE IS A DESIRE FOR IKIGAI, KAIZEN, POMODORO, HARA HACHIBU, INEMURI, WASHOKU, SHOSHIN, SHINRIN-YOKU, WABI SABI STYLE & BEAUTY ✔ DISCOVER THE BEAUTY OF THE EARTH AND YOURSELF - LETS JOIN FOR PEACE & FREEDOM & KINDNESS & TOLERANCE & HARMONY & GOOD MANNERS for us and our children ✔ Slow down days - your emotions matter - plant on the windowsill, balcony, garden or in the surroundings, be patient ✔ Chocolate day ✔ Positive thinking day ✔ Autumn time ✔ Huge 30 sec HUG to you ✔ SELF-HUG✔ CARESS ✔ Hygge ✔ LOVE (💖) Pascal Letoublon - Friendships
 
 
 
@@ -40,7 +40,7 @@ Protože Vám přeji prožití klidného nejen dnešního dne. Protože to děl�
   </div>
 </div>
 
-třicátýsedmý týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
+třicátýosmý týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
 AHOJ HYGGE style  Dokážeme-li si takto vzájemně pomáhat, je tu čím dál lépe a veseleji a to všude.
 
 The more you know, the more respectfull and carefull you are in any ways. It is strength, not weakness. Please be kind to anyone, who was hurt. Let´s be polite. 
